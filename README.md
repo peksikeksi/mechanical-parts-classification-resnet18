@@ -1,0 +1,1 @@
+# mechanical-parts-classification-resnet18
